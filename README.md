@@ -28,3 +28,5 @@ I dunno why I made this but I did so yaa.
    - usage (pointer): wpm [base,offset1,offset2...] [type] [process name] [value]
    - example (pointer): wpm [509B74,F8] [int] [ac_client.exe] [1000] *(sets health to 1000 in AssaultCube version 12.0.2)*
    - note: To NOP something, replace [address] with the address and replace [value] with 90 for each byte
+
+should i even work on this mo or no
